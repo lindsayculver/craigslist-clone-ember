@@ -1,0 +1,15 @@
+{ "categories": [{
+  "name": "Pets",
+  "image": "https://epi.bbb.org/globalassets/local-bbbs/tyler-tx-74/media/news_center_article_images/cairns-pet-care2-e1354247547298.jpg",
+  "listings": [
+    {"title": "Great Dane Puppy", "seller": "Susie Doe", "price": "best offer", "description": "12 week old blue Dane puppy looking for good home", "image": "https://dogguide.net/blog/wp-content/uploads/2008/03/570156882_17f06170af.jpg"},
+    {"title": "Free Kittens", "seller": "Fred Baloo", "price": "free", "description": "tiny and cute baby kittens of all colors", "image": "https://ochumanesociety.com/clients/3697/images/kittens.jpg"}
+
+  ]}, {
+    "name": "Furniture",
+    "image": "https://0.tqn.com/w/experts/Moving-Furniture-2016/2010/08/Couch-Picture_1.jpg",
+    "listings": [
+      {"title": "mattress", "seller": "John Frank", "price": "$150", "description": "very good condition, king size, used", "image": "https://beds-sale.net/assets/king-size-mattress_3.jpg"},
+      {"title": "end table", "seller": "Betty Prince", "price": "$10", "description": "small red ikea end table. never used", "image": "https://ikea.com/us/en/images/products/lack-side-table-red__0115088_PE268302_S4.JPG"}]
+    }]
+}
